@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/golang-grey?style=for-the-badge&logo=go"/>
 <br>
 <img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/>
-<img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=vscode"/>
+<img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode"/>
 
 <br>
 <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/>
