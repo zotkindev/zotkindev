@@ -14,7 +14,6 @@
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode"/></a>
 <br>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/sqlalchemy(in%20progress)-grey?style=for-the-badge&logo=sqlalchemy"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/postgresql(in%20progress)-grey?style=for-the-badge&logo=postgresql"/></a>
 <br>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a>
