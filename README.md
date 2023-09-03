@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css"/>
+<img src="https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/mac%20os-grey?style=for-the-badge&logo=apple"/>
 <img src="https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows"/>
   
