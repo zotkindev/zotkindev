@@ -9,8 +9,9 @@
 <img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/golang-grey?style=for-the-badge&logo=go"/>
 <br>
-<img src="https://img.shields.io/badge/goland-grey?style=for-the-badge&logo=goland"/>
 <img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/>
+<img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=vscode"/>
+
 <br>
 <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/>
