@@ -20,7 +20,11 @@
 <br>
 <img src="https://img.shields.io/badge/mac%20os-grey?style=for-the-badge&logo=apple"/>
 <img src="https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows"/>
-  
+
+<br>
+<br>
+
+
   <p>how to reach me?</p>
   <p><a  href="https://t.me/zotkindev"> <strong style="vertical-align: middle;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="tg" style="width:2%; margin-bottom: -5px;"> telegram </strong> </a></p>
   <hr noshade size="1">
