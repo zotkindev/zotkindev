@@ -13,6 +13,8 @@
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode"/></a>
 <br>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=sql"/></a>
+<br>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/></a>
