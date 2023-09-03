@@ -7,7 +7,9 @@
 
 <h3>Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/golang-grey?style=for-the-badge&logo=golang"/>
 <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/>
+
 <img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/>
 <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/>
