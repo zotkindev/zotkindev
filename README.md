@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django&logoColor=66B58E"/>
 <br>
 <img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/>
-<img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=306DBB"/>
+<img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=3C78C8"/>
 
 <br>
 <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/>
