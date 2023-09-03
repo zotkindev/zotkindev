@@ -7,9 +7,9 @@
 
 <h3>Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python&logoColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/MAC%20OS-grey?style=for-the-badge&logo=apple&logoColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python&logoColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/MAC%20OS-grey?style=for-the-badge&logo=apple"/>
+<img src="https://img.shields.io/badge/Html%205-grey?style=for-the-badge&logo=html"/>
+<img src="https://img.shields.io/badge/WINDOWS-grey?style=for-the-badge&logo=windows"/>
 <img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python&logoColor=f5f5f5"/>
   
   <p>how to reach me?</p>
