@@ -9,11 +9,12 @@
 <h3>Languages and Tools:</h3>
 <a href="https://python.org"><img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python"/></a>
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django&logoColor=66B58E"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/sqlite-grey?style=for-the-badge&logo=sqlite"/></a>
 <br>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode"/></a>
 <br>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/sqlite-grey?style=for-the-badge&logo=sqlite"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/sqlalchemy(in%20progress)-grey?style=for-the-badge&logo=sqlalchemy"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/postgresql(in%20progress)-grey?style=for-the-badge&logo=postgresql"/></a>
 <br>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a>
