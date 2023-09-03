@@ -26,4 +26,5 @@
 
   <p>how to reach me?</p>
   <p><a  href="https://t.me/zotkindev"> <strong style="vertical-align: middle;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="tg" style="width:2%; margin-bottom: -5px;"> telegram </strong> </a></p>
+  <p><a  href="zotkindev@list.ru"> <strong style="vertical-align: middle;">"> e-mail </strong> </a></p>
   <hr noshade size="1">
