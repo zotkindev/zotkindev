@@ -6,7 +6,7 @@
 
 
 <h3>Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python"/>
+<a href="https://python.org"><img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python"/><a>
 <img src="https://img.shields.io/badge/golang-grey?style=for-the-badge&logo=go"/>
 <br>
 <img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/>
