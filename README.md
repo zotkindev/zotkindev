@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/zotkindev" target="_blank">Danila</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/ishootrawph" target="_blank">Danila</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" heigth='32' width='32'/></h1>
 <h3 align="center">AI & Computer vision student, beginner Python & Go writer from Russia 🇷🇺</h3>
 
@@ -14,14 +14,14 @@
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode"/></a>
 <br>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/postgresql(in%20progress)-grey?style=for-the-badge&logo=postgresql"/></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgresql(in%20progress)-grey?style=for-the-badge&logo=postgresql"/></a>
 <br>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/></a>
 <br>
 <a href="https://www.apple.com/ru/macos/"><img src="https://img.shields.io/badge/mac%20os-grey?style=for-the-badge&logo=apple"/></a>
-<a href="https://support.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows"/></a>
+<a href="https://support.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows10"/></a>
 
 <br>
 <br>
