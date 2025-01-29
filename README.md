@@ -18,10 +18,10 @@
 <br>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/></a>
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker(in%20progress)-grey?style=for-the-badge&logo=docker"/></a>
 <br>
 <a href="https://www.apple.com/ru/macos/"><img src="https://img.shields.io/badge/mac%20os-grey?style=for-the-badge&logo=apple"/></a>
-<a href="https://support.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows10"/></a>
+<a href="https://support.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=microsoft"/></a>
 
 <br>
 <br>
